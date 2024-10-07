@@ -1,0 +1,14 @@
+<core:FragmentDefinition xmlns="sap.m" xmlns:smartfilterbar="sap.ui.comp.smartfilterbar" xmlns:core="sap.ui.core">
+<smartfilterbar:ControlConfiguration groupId="_BASIC" id="ag1"
+    key="customfilter"
+    label="AggregatorID"
+    visibleInAdvancedArea="true">
+    <smartfilterbar:customControl>
+        <ComboBox id="AggregatorID">
+        <core:Item id="one" key="0" text="Item1"/>
+        <core:Item id="two" key="1" text="Item2"/>
+        <core:Item id="three" key="2" text="Item3"/>
+    </ComboBox>
+    </smartfilterbar:customControl>
+</smartfilterbar:ControlConfiguration>
+</core:FragmentDefinition>

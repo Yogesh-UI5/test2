@@ -1,0 +1,41 @@
+{
+    "fileName": "id_1723789671249_155_propertyChange",
+    "fileType": "change",
+    "changeType": "propertyChange",
+    "moduleName": "",
+    "reference": "com.arteriatech.headers",
+    "packageName": "",
+    "content": {
+        "property": "width",
+        "newValue": "9rem"
+    },
+    "selector": {
+        "id": "com.arteriatech.headers::sap.suite.ui.generic.template.ListReport.view.ListReport::BPHeaders--listReport-City",
+        "idIsLocal": false,
+        "type": "sap.m.Column"
+    },
+    "layer": "CUSTOMER_BASE",
+    "texts": {},
+    "namespace": "apps/com.arteriatech.headers/changes/",
+    "projectId": "",
+    "creation": 1723789671249,
+    "originalLanguage": "",
+    "support": {
+        "generator": "changeUtils: SAPFioriTools",
+        "service": "",
+        "user": "",
+        "sapui5Version": "1.127.0",
+        "sourceChangeFileName": "",
+        "compositeCommand": ""
+    },
+    "oDataInformation": {},
+    "dependentSelector": {},
+    "validAppVersions": {
+        "from": "0.0.1",
+        "to": "0.0.1",
+        "creation": "0.0.1"
+    },
+    "jsOnly": false,
+    "variantReference": "",
+    "appDescriptorChange": false
+}

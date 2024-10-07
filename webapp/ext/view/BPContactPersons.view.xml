@@ -1,0 +1,7 @@
+<mvc:View xmlns:core="sap.ui.core" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m"
+	xmlns:html="http://www.w3.org/1999/xhtml" controllerName="com.arteriatech.headers.ext.controller.BPContactPersons">
+	
+	<Label id="BP" text="BPContactPersons" />
+	<Label id="BP2" text="Address1" />
+	
+</mvc:View>
